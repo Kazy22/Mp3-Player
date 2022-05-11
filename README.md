@@ -1,9 +1,8 @@
 # Mp3 Player app with Tkinter GUI in Python
 ## About
 > This App is an open-source project which you can listen songs from your computer.
-> Currently, you can only play mp3 files.
+Currently, you can only play mp3 files.
 ***
-
 ![](mp3player/icons/preview.png)
 
 # How to run
