@@ -18,4 +18,4 @@
 - [ ] Adding more compatibility  files
 - [ ] Rename/Delete buttons and many features
 
-###### ❤️ love u guys please follow me on github and star this project ;)**
+###### ❤️ love u guys please follow me on github and star this project ;)
